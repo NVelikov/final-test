@@ -5,3 +5,8 @@
   color: #f1f1f1;
   text-shadow: 2px 4px 9px #333;
 }
+$(document).ready(function () {
+	$('#search-button').click(function () {
+		
+	});
+});
